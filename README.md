@@ -3,6 +3,8 @@
 A comprehensive finance management application designed to simplify both personal budgeting and group expense tracking. Built with a smooth cross-platform Flutter UI and powered by Firebase for secure, real-time data handling.
 
 ---
+🔗 **Live Demo:** https://expensetracker007-b6780.web.app/
+---
 
 ## ✨ Features
 
@@ -19,4 +21,5 @@ A comprehensive finance management application designed to simplify both persona
 - **Frontend:** Flutter (Dart)  
 - **Backend & Data:** Firebase (Firestore, Authentication, Storage)  
 - **Supported Platforms:** Android, iOS, Web, Desktop  
+
 
